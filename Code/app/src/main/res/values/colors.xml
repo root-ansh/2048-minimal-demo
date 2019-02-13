@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffd600</color>
+    <color name="white">#ffffff</color>
+    <color name="gray1">#757575</color>
+
+    <color name="for2">#e4e4e4</color>
+    <color name="for4">#ff9c7d</color>
+    <color name="for8">#f78b48</color>
+    <color name="for16">#ff7d0b</color>
+    <color name="for32">#ffb74d</color>
+    <color name="for64">#7cb342</color>
+    <color name="for128">#00e676</color>
+    <color name="for256">#00bf99</color>
+    <color name="for512">#00abc6</color>
+    <color name="for1024">#182faf</color>
+    <color name="for2048">#9d00c4</color>
+
+
+
+</resources>
